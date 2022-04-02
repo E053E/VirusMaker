@@ -1,0 +1,9 @@
+start Rickroll.mp3
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start rickroll.vbs
+start rickroll.vbs
+start rickroll.vbs
+start rickroll.vbs
+start rickroll.vbs
+start rickroll.vbs
+start BlueRickRollScreen.exe
