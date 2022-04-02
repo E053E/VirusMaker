@@ -187,4 +187,4 @@ start error.vbs
 start error.vbs
 start error.vbs
 start error.vbs
-start BlueScreen.exe
+start error.vbs
